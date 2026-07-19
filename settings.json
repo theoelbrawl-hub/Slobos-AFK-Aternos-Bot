@@ -2,14 +2,14 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "khallesi",
-    "password": "",
+    "password": "peppa",
     "type": "offline"
   },
   "server": {
     "ip": "Papulandia21.aternos.me",
     "port": 26326,
     "version": "1.20.1",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
